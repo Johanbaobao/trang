@@ -1,0 +1,30 @@
+h1{
+    color: blueviolet;
+}
+
+p {
+font-style: italic;
+}
+
+a{color: rgb(42, 165, 89);
+
+
+}
+
+a:hover{
+
+    color: rgb(1, 10, 10);
+    font-size: 120%;
+    font-style: italic;
+}
+
+img{
+filter: grayscale(70%)
+}
+
+
+#Johan {
+    color:rgb(233, 17, 28);
+
+}
+div {color: rgb(51, 231, 34);}
